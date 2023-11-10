@@ -8,8 +8,6 @@ This project uses `ERC4337` standard to create Smart wallet for a user and also 
   - [Table of Contents](#table-of-contents)
   - [Overview-Description](#overview-description)
   - [Demo Video](#demo-video)
-  - [Deploying and Verifying the Contracts on Sepolia testnet](#deploying-and-verifying-the-contracts-on-sepolia-testnet)
-  - [Frontend UI](#frontend-ui)
   - [Authors](#authors)
   - [License](#license)
 
@@ -22,7 +20,6 @@ The `Smart Wallet Dapp`, allows you to create smart wallets. It has a factory co
 
 ## Demo Video
 
-https://www.loom.com/share/304e34d323594fed869f7c47cda40365?sid=0dd8754d-db97-4f90-b00a-d3b3ee94802d
 
 
 
